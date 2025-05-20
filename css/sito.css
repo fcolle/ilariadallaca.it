@@ -1,0 +1,35 @@
+
+.intro-section{
+    
+     width:100%;
+     border:1px solid blueviolet;
+    
+    }
+
+.logo-small{
+    position: relative;
+    background-image: url(../images/logo_small.png);
+    /* display: inline-block; */
+    
+    background-color: yellow;
+}
+#name{
+    font-variant: small-caps;
+    font-size: 2em;
+    font-weight: 400;
+    /* border:1px solid red; */
+    text-align: left;
+ }
+
+ .nopad{
+
+    padding: 0;
+ }
+ 
+
+ .nomargin{
+  margin:0;
+
+ }
+
+ 
